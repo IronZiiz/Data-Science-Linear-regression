@@ -50,5 +50,3 @@ By the end of this course, you will be able to:
    - Case study: Predicting house prices.  
 
 ---
-## 📄 License
-This project is licensed under the MIT License. Contributions are welcome!
